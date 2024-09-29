@@ -1,17 +1,18 @@
 # Static Management for Lost Ark - Google Sheets Project
 
-<details> 
-   <summary><h1>  Characters Sheet </h1></summary> 
-   
+---
+
 This sheet is a comprehensive yet user-friendly tool designed to streamline raid planning and character progress tracking for Lost Ark players.
     
 A Google Sheets-based static management tool designed for **Lost Ark** players. This sheet helps track individual progress and plans for raids, supporting **8 core members** and **3 extra members** in a static team.
 
 [Click here to access the Google Sheets template.](https://docs.google.com/spreadsheets/d/1BKOExbG7ytlijMTRmJ-zoOMUEIkjTxZYoYP4zV_et3c/copy)
 
-The sheet may appear complex at first glance, but it’s designed for simplicity and ease of use. All tracking tools are consolidated into one page.
-
 ---
+
+The sheet may appear complex at first glance, but it’s designed for simplicity and ease of use. All tracking tools are consolidated into one page.
+<details> 
+   <summary><h1>  Characters Sheet </h1></summary> 
 
 ## Overview
 The sheet is divided into **two main sections**:
